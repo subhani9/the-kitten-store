@@ -1,0 +1,108 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.container-fluid{
+    padding:3% 10%;
+}
+
+#title{
+    color:white;
+    background-color:#ffc107;
+}
+
+.navbar-brand{
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.navbar{
+   padding-bottom: 4rem;
+}
+
+.nav-item{
+   padding:0 1rem;
+}
+
+.nav-link{
+   font-size:1rem;
+   color:black;
+}
+
+/* downloads Buttons */
+.download-button{
+ margin:3% 2% 0% 0%;
+}
+
+img{
+    width: 43rem;
+    margin-top: 1rem;
+    
+}
+
+ /* Feature Section */
+
+ #features{
+    padding:8% 10% ;
+ }
+
+ .future-box{
+    text-align: center;
+ }
+
+ .future-box h3{
+    font-size:1.4rem;
+ }
+ .future-box p{
+    color:rgb(156, 156, 156);
+ }
+
+ /* Testimonials */
+
+ #testimonials{
+    padding:5% 10% ;
+    text-align: center;
+    background-color: #ffc107;
+    color:#fff;
+ }
+
+ .avatar{
+    width:2rem;
+ }
+
+ #clients{
+    padding:0% 10% ;
+    background-color: #ffc107;
+ }
+ .clients-img{
+    width:15rem;
+    text-align: center;
+    margin-right:2.6rem;
+    padding-bottom: 1rem;
+ }
+.carousel-item{
+    padding:5% 10% ;
+}
+.card{
+   width:18rem;
+   display: flex;
+}
+#pricing{
+    padding:5% 10% ;
+    text-align: center;
+}
+.card-box{
+    text-align: center;
+}
+ .card-body p{
+    color:rgb(156, 156, 156);
+ }
+ #footer{
+    background-color: #ffc107;
+    text-align: center;
+    padding: 2rem;
+    color:white;
+ }
